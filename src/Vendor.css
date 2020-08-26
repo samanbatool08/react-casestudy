@@ -1,0 +1,11 @@
+.vendor {
+   display: flex;
+   /* padding: 20px; */
+   cursor: pointer;
+   margin-right: auto;
+   /* border-bottom: 1px solid lightgray; */
+   font-size: 10px;
+   font-family: 'Roboto', sans-serif;
+   color: gray;
+
+}
